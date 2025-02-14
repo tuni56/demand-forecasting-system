@@ -87,3 +87,4 @@ forecast[['ds', 'yhat', 'yhat_lower', 'yhat_upper']].to_csv('data/forecast.csv',
 
 👨‍💻 **Contributions & Feedback are Welcome!** 🚀
 
+⭐ **If you like this project, don't forget to give it a star!** ⭐
